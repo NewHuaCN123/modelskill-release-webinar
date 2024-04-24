@@ -1,4 +1,8 @@
 # ModelSkill Release Webinar - 2024-04-24
+
+![image](https://github.com/DHI/modelskill-release-webinar/assets/614215/27b76b41-592a-4f90-8650-5aa3370014c3)
+
+
 Notebooks demonstrating the [ModelSkill](https://github.com/DHI/modelskill) model validation library
 
 Quantitative skill assessment (validation) of a numerical model is important for most modelling projects. But without proper tools, this can be a time-consuming task. That's why DHI developed ModelSkill, an open-source Python library designed to streamline the skill assessment process for any type of model (i.e., MIKE, FEFLOW, WEST, etc.).
